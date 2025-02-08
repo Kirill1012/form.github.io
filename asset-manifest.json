@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/form/static/css/main.4d813e7b.css",
-    "main.js": "/form/static/js/main.2dab4a00.js",
-    "static/js/151.899fc31b.chunk.js": "/form/static/js/151.899fc31b.chunk.js",
-    "static/media/gory_more_oblaka_1346876_2048x1152.jpg": "/form/static/media/gory_more_oblaka_1346876_2048x1152.103000cf411856e9170c.jpg",
-    "index.html": "/form/index.html",
-    "main.4d813e7b.css.map": "/form/static/css/main.4d813e7b.css.map",
-    "main.2dab4a00.js.map": "/form/static/js/main.2dab4a00.js.map",
-    "151.899fc31b.chunk.js.map": "/form/static/js/151.899fc31b.chunk.js.map"
+    "main.css": "/form.github.io/static/css/main.4b9a0114.css",
+    "main.js": "/form.github.io/static/js/main.3de2ad7c.js",
+    "static/js/151.899fc31b.chunk.js": "/form.github.io/static/js/151.899fc31b.chunk.js",
+    "static/media/gory_more_oblaka_1346876_2048x1152.jpg": "/form.github.io/static/media/gory_more_oblaka_1346876_2048x1152.103000cf411856e9170c.jpg",
+    "index.html": "/form.github.io/index.html",
+    "main.4b9a0114.css.map": "/form.github.io/static/css/main.4b9a0114.css.map",
+    "main.3de2ad7c.js.map": "/form.github.io/static/js/main.3de2ad7c.js.map",
+    "151.899fc31b.chunk.js.map": "/form.github.io/static/js/151.899fc31b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d813e7b.css",
-    "static/js/main.2dab4a00.js"
+    "static/css/main.4b9a0114.css",
+    "static/js/main.3de2ad7c.js"
   ]
 }
